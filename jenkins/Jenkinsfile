@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Deliver') {
             steps {
-                echo 'Delivered on branch newpipeline!!'
+                echo 'Delivered on branch newpipeline!!!'
             }
         }
     }
